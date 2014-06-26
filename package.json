@@ -1,0 +1,29 @@
+{
+  "name": "hijra",
+  "version": "0.0.1",
+  "description": "Umm al Qura hijri date converter for node.js and the browser valid between 1420-01-01 (1999-04-17) and 1450-12-01 (2029-04-15)",
+  "main": "dist/hijra.min.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "hijri",
+    "hijra",
+    "date",
+    "converter",
+    "calendar",
+    "umm al qura"
+  ],
+  "author": {
+    "name": "Talal Alnafie",
+    "email": "alnafie@gmail.com",
+    "url": "https://github.com/alnafie"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.20.1",
+    "chai": "~1.9.1",
+    "grunt": "~0.4.5",
+    "grunt-contrib-uglify": "~0.5.0"
+  }
+}
